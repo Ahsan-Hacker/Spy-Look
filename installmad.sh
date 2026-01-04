@@ -1,14 +1,14 @@
-# Created By MR. MAD BHAI
+# Created By Ahsan
 
 clear
 echo '  
       --------------------------------   
-    !!        𝐌ʳ. 𝐦𝓐𝓓 ⓑｈⓐι       !! 
+    !!        Ahsan Hacks    !! 
       --------------------------------   '
 sleep 3
 clear
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m    ---------------------------------  \e[1;91m\e[0m'
-echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m  !!    DOWNLOADING REQUIREMENTS     !!\e[0m'
+echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m  !!    DOWNLOADING Hacks     !!\e[0m'
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m    ---------------------------------  \e[1;91m\e[0m'
 echo ""
 sleep 2
@@ -30,7 +30,7 @@ sleep 2
 clear
 echo '
       ---------------------------------  
-    !!       STARTING MADCAM           !! 
+    !!       STARTING mv Optical-Attak           !! 
       ---------------------------------   ' | lolcat
 sleep 2
-bash madcam.sh
+mv madcam.sh Optical-Attak.sh
