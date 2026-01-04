@@ -1,18 +1,14 @@
-<p align="center">
-<a href="https://www.github.com/MrMadBhai/MadCam"><img title="MadCam" alt="MadCam" src="https://github.com/mrmadbhai/MadBhai/blob/main/MadCam.jpg"></a>
-</p>
+## What is optical attack ?
 
-## What is MadCam ?
+optical attack is a Tool that can grab cam shots of targeted phone'uhs of front camera or PC's webcam by just sending a link.
 
-MadCam is a Tool that can grab cam shots of targeted phone's of front camera or PC's webcam by just sending a link.
+## optical attack latest Version
 
-## MadCam latest Version
+v4.0 is the latest version of optical attack.
 
-v2.0 is the latest version of MadCam.
+## How optical attack Works ?
 
-## How MadCam Works ?
-
-First of all MadCam tool host a phishing site on attacker local network. This tool works on localhost, for wan access you have to use ngrok manually to take website over the internet. Now come to the main Point, attacker simply open the tool by using terminal and generate a link, when Link is generated attacker send that link to the target. If target open the link, target ip will transfer to the attacker. After Website load, the website ask for Camera access and when target give the permission the website will take cam shots one by one and send it to the Attacker.
+First of all optical attack tool host a phishing site on attacker local network. This tool works on localhost, for wan access you have to use ngrok manually to take website over the internet. Now come to the main Point, attacker simply open the tool by using terminal and generate a link, when Link is generated attacker send that link to the target. If target open the link, target ip will transfer to the attacker. After Website load, the website ask for Camera access and when target give the permission the website will take cam shots one by one and send it to the Attacker.
 
 ## Features
 
@@ -39,13 +35,14 @@ First of all MadCam tool host a phishing site on attacker local network. This to
 
 ## Installation
 
-To install MadCam Tool you have to open termux :
+To install optical attack Tool you have to open termux :
 
 ```bash
-git clone https://github.com/mrmadbhai/MadCam.git
-cd MadCam
+git clone https://github.com/Ahsan-Hacker/Optical-Attak.git
+cd Optical-Attak
 bash installmad.sh
-bash madcam.sh
+mv madcam.sh Optical-Attak.sh
+bash Optical-Attak.sh
 ```
 
 Note : installmad.sh will automatically start MadCam after successfully installation and if you starting 2nd time then you have to type `bash madcam.sh`.
@@ -102,8 +99,9 @@ Note : You can see the image in Internal Storage.
 
 ## Warning
 
-**MadCam tool is only for Educational Purpose. MadCam Tool is the responsibility of the person uing it. There is no responsibility of the owner of MadCam tool**
+**optical attack tool is only for Educational Purpose. optical attack Tool is the responsibility of the person uing it. There is no responsibility of the owner of optical attack tool**
 
 <h1 align="center">
 Happy Coding
 </h1>
+
